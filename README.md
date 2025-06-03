@@ -17,7 +17,7 @@ Ces pages sont stylisées avec [`styles.css`](docs/styles.css) et publiées auto
 Une fois GitHub Pages activé, visitez :
 
 ```
-https://<votre-nom-utilisateur-ou-org>.github.io/<nom-du-repo>/faq.html
+https://<Cedric15-cantal>.github.io/<test_appli_edcA6>/faq.html
 ```
 
 ou
